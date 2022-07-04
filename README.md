@@ -17,3 +17,7 @@ BACKEND
 4)go to config file and chenge the DB path
 5)npm dev run
 ----//-----
+
+Backend diffrent way
+similar backend code u can find here also
+and same chenge u have to do
